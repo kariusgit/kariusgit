@@ -28,7 +28,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kariusgit&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariusgit&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariusgit&layout=compact&theme=vision_friendly_dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
     </td>
   </tr>
 </table>
