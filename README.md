@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Are%20you%20too%20karius?!&textBg=false&fontColor=0026ff&fontSize=79&animation=twinkling&rotate=8&stroke=60&strokeWidth=67&section=header&reversal=false&desc=%20🚀%20Hi,%20I'm%20TK&descSize=46&descAlign=45&descAlignY=20" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0026ff,100:00e5ff&text=Are%20you%20too%20karius?!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&desc=%20🚀%20Hi,%20I'm%20TK&descSize=30&descAlignY=55" />
 
 
 **Full-Stack Architect | Creative Developer | Open Source Enthusiast**
