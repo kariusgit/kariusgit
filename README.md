@@ -1,18 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn&fontAlignY=38" />
+<img src="[https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Are%20you%20too%20karius?!&textBg=false&fontColor=0026ff&fontSize=79&animation=twinkling&rotate=8&stroke=60&strokeWidth=67&section=header&reversal=false&desc=%20🚀%20Hi,%20I'm%20TK&descSize=46&descAlign=45&descAlignY=20)" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN6Znd4ZzR4eXN6Znd4ZzR4eXN6Znd4ZzR4eXN6Znd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWN6IasdQgm7Uogj0H/giphy.gif" width="150" />
 
-# 🚀 Hi, I'm TK
+
 **Full-Stack Architect | Creative Developer | Open Source Enthusiast**
 
 ---
 
 ### 🌐 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](your-link) 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](your-link) 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](your-link)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://github.com/sponsors/bricekainc/) 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](https://github.com/sponsors/bricekainc/) 
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://github.com/sponsors/bricekainc/)
 
 ---
 
