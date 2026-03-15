@@ -201,12 +201,14 @@
     else if (lc.includes("youtube.com") || lc.includes("youtu.be")) target = "youtube";
     else if (lc.includes("x.com") || lc.includes("twitter.com")) target = "twitter";
     else if (lc.includes("instagram.com")) target = "meta";
+     else if (lc.includes("facebook.com")) target = "meta";
+     else if (lc.includes("threads.com") || lc.includes("threads.net")) target = "meta";
 
     // Simulate 2026 "AI Extraction" delay
     setTimeout(() => {
       // Since this is GitHub Pages, it will look for /target/ folder
       // Make sure those folders exist in your repo!
-      window.location.href = `./${target}/?url=${encodeURIComponent(url)}`;
+      window.location.href = `https://briceka.com/anyvideodownloader/${target}/?url=${encodeURIComponent(url)}`;
     }, 2500);
   }
 </script>
