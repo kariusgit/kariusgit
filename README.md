@@ -33,8 +33,10 @@
   </tr>
 </table>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=kariusgit&theme=dracula&no-frame=true&column=4" />
+<p align="center">
+### 🚀 TK Contributions Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kariusgit&theme=react-dark&area=true&hide_border=true" />
+</p>
 
 ---
 
