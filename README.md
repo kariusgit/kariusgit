@@ -26,21 +26,21 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kariusgit&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kariusgit&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&no-frame=true&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=kariusgit&theme=dracula&no-frame=true&column=4" />
 
 ---
 
 ### ☁️ Contribution 3D Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=vision-friendly-dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kariusgit&theme=vision-friendly-dark" width="100%" />
 
 ---
 
